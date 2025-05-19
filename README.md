@@ -20,9 +20,8 @@ O jogo é inspirado em títulos clássicos como **Super Mario**, mas não tem a 
 
 > *Adicione abaixo capturas de tela ou GIFs do jogo em execução.*
 
-| Cena do Jogo | Animações |
-|--------------|-----------|
-| ![imagem1](imagens/cena1.png) | ![imagem2](imagens/animacao.gif) |
+![imagem1](imagens/cena1.png) 
+![imagem2](imagens/animacao.gif)
 
 ---
 
